@@ -1,0 +1,32 @@
+Number Sequence Finder
+This program allows you to input a sequence of numbers and find the next numbers in the sequence based on a pattern. The program can detect linear, quadratic, and geometric patterns, as well as other types of patterns.
+
+Prerequisites
+To run this program, you'll need to have Python 3 installed on your computer.
+
+Installing
+Download the number_sequence.py file from the repository.
+Save the file in a directory on your computer.
+Running the Program
+Open a command prompt or terminal window.
+Navigate to the directory where the number_sequence.py file is saved.
+Type python number_sequence.py to run the program.
+Follow the prompts to input a sequence of numbers and find the next numbers in the sequence.
+Sample Input and Output
+lua
+Copy code
+Enter a sequence of at least four numbers, separated by spaces (or 'quit' to exit): 1 2 3 4
+The next three numbers in the sequence are: 5 6 7
+
+Enter a sequence of at least four numbers, separated by spaces (or 'quit' to exit): 1 2 4 7
+No pattern can be detected.
+
+Enter a sequence of at least four numbers, separated by spaces (or 'quit' to exit): quit
+Contributing
+Contributions to this program are welcome. To contribute, please fork the repository and submit a pull request.
+
+Authors
+Bryan Allen
+
+License
+This program is licensed under the MIT License - see the LICENSE.md file for details.
